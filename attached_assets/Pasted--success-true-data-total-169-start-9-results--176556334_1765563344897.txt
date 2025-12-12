@@ -1,0 +1,1818 @@
+{
+  "success": true,
+  "data": {
+    "total": 169,
+    "start": -9,
+    "results": [
+      {
+        "id": "is5rbISU",
+        "name": "Believer",
+        "type": "song",
+        "year": "2020",
+        "releaseDate": null,
+        "duration": 144,
+        "label": "Ostereo",
+        "explicitContent": false,
+        "playCount": 29606,
+        "language": "english",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer/GRteQxZ5ZGY",
+        "copyright": "© 2020 Ostereo Limited",
+        "album": {
+          "id": "65944858",
+          "name": "AiSh, Vol. 4",
+          "url": "https://www.jiosaavn.com/album/aish-vol.-4/LZ,48f7TVrk_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "1538887",
+              "name": "Aish",
+              "role": "primary_artists",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aish-songs/XzBwgB5xWto_"
+            }
+          ],
+          "featured": [],
+          "all": [
+            {
+              "id": "599455",
+              "name": "Ben Mckee",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/ben-mckee-songs/EA7FaJms-k8_"
+            },
+            {
+              "id": "599453",
+              "name": "Dan Reynolds",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/dan-reynolds-songs/xoeLrr0aTEU_"
+            },
+            {
+              "id": "914898",
+              "name": "Daniel Platzman",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/daniel-platzman-songs/hOWrEJ6eC9I_"
+            },
+            {
+              "id": "633532",
+              "name": "Justin Tranter",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/justin-tranter-songs/MUdaah321CU_"
+            },
+            {
+              "id": "634862",
+              "name": "Mattias Larsson",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/mattias-larsson-songs/d6thUM5GwSE_"
+            },
+            {
+              "id": "683491",
+              "name": "Robin Fredriksson",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/robin-fredriksson-songs/jRGk4sF83Ko_"
+            },
+            {
+              "id": "599454",
+              "name": "Wayne Sermon",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/wayne-sermon-songs/,WHkVDnJnD8_"
+            },
+            {
+              "id": "1538887",
+              "name": "Aish",
+              "role": "singer",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aish-songs/XzBwgB5xWto_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/726/AiSh-Vol-4-Hindi-2020-20250701222629-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/726/AiSh-Vol-4-Hindi-2020-20250701222629-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/726/AiSh-Vol-4-Hindi-2020-20250701222629-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/726/4e018130b83b4c0abbd7f41b6e5c6794_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/726/4e018130b83b4c0abbd7f41b6e5c6794_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/726/4e018130b83b4c0abbd7f41b6e5c6794_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/726/4e018130b83b4c0abbd7f41b6e5c6794_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/726/4e018130b83b4c0abbd7f41b6e5c6794_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "0W6DtW_N",
+        "name": "Believer",
+        "type": "song",
+        "year": "2020",
+        "releaseDate": null,
+        "duration": 144,
+        "label": "Ostereo",
+        "explicitContent": false,
+        "playCount": 29606,
+        "language": "english",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer/QD9ddQBnaH0",
+        "copyright": "© 2020 Imagine Dragons",
+        "album": {
+          "id": "69996470",
+          "name": "AiSh, Vol. 4",
+          "url": "https://www.jiosaavn.com/album/aish-vol.-4/crWmjT3wQGI_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "1538887",
+              "name": "Aish",
+              "role": "primary_artists",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aish-songs/XzBwgB5xWto_"
+            }
+          ],
+          "featured": [],
+          "all": [
+            {
+              "id": "599455",
+              "name": "Ben Mckee",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/ben-mckee-songs/EA7FaJms-k8_"
+            },
+            {
+              "id": "599453",
+              "name": "Dan Reynolds",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/dan-reynolds-songs/xoeLrr0aTEU_"
+            },
+            {
+              "id": "914898",
+              "name": "Daniel Platzman",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/daniel-platzman-songs/hOWrEJ6eC9I_"
+            },
+            {
+              "id": "633532",
+              "name": "Justin Tranter",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/justin-tranter-songs/MUdaah321CU_"
+            },
+            {
+              "id": "634862",
+              "name": "Mattias Larsson",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/mattias-larsson-songs/d6thUM5GwSE_"
+            },
+            {
+              "id": "683491",
+              "name": "Robin Fredriksson",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/robin-fredriksson-songs/jRGk4sF83Ko_"
+            },
+            {
+              "id": "599454",
+              "name": "Wayne Sermon",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/wayne-sermon-songs/,WHkVDnJnD8_"
+            },
+            {
+              "id": "1538887",
+              "name": "Aish",
+              "role": "singer",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aish-songs/XzBwgB5xWto_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/217/AiSh-Vol-4-Hindi-2020-20251121215417-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/217/AiSh-Vol-4-Hindi-2020-20251121215417-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/217/AiSh-Vol-4-Hindi-2020-20251121215417-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/217/eea3f57b1dd07f013ed0d83052808606_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/217/eea3f57b1dd07f013ed0d83052808606_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/217/eea3f57b1dd07f013ed0d83052808606_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/217/eea3f57b1dd07f013ed0d83052808606_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/217/eea3f57b1dd07f013ed0d83052808606_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "sqqTLFrR",
+        "name": "Believer",
+        "type": "song",
+        "year": "2022",
+        "releaseDate": null,
+        "duration": 144,
+        "label": "Ostereo",
+        "explicitContent": false,
+        "playCount": 29605,
+        "language": "english",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer/AxkaZTh2RWE",
+        "copyright": "© 2022 Ostereo Limited",
+        "album": {
+          "id": "65941628",
+          "name": "AiSh: The Covers Collection",
+          "url": "https://www.jiosaavn.com/album/aish-the-covers-collection/UCGQ-IHyWKk_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "1538887",
+              "name": "Aish",
+              "role": "primary_artists",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aish-songs/XzBwgB5xWto_"
+            }
+          ],
+          "featured": [],
+          "all": [
+            {
+              "id": "599455",
+              "name": "Ben Mckee",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/ben-mckee-songs/EA7FaJms-k8_"
+            },
+            {
+              "id": "599453",
+              "name": "Dan Reynolds",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/dan-reynolds-songs/xoeLrr0aTEU_"
+            },
+            {
+              "id": "914898",
+              "name": "Daniel Platzman",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/daniel-platzman-songs/hOWrEJ6eC9I_"
+            },
+            {
+              "id": "633532",
+              "name": "Justin Tranter",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/justin-tranter-songs/MUdaah321CU_"
+            },
+            {
+              "id": "634862",
+              "name": "Mattias Larsson",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/mattias-larsson-songs/d6thUM5GwSE_"
+            },
+            {
+              "id": "683491",
+              "name": "Robin Fredriksson",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/robin-fredriksson-songs/jRGk4sF83Ko_"
+            },
+            {
+              "id": "599454",
+              "name": "Wayne Sermon",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/wayne-sermon-songs/,WHkVDnJnD8_"
+            },
+            {
+              "id": "1538887",
+              "name": "Aish",
+              "role": "singer",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aish-songs/XzBwgB5xWto_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/728/AiSh-The-Covers-Collection-Hindi-2022-20250701222544-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/728/AiSh-The-Covers-Collection-Hindi-2022-20250701222544-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/728/AiSh-The-Covers-Collection-Hindi-2022-20250701222544-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/728/946ff0f670cb1a197f1bf8254f342c4e_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/728/946ff0f670cb1a197f1bf8254f342c4e_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/728/946ff0f670cb1a197f1bf8254f342c4e_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/728/946ff0f670cb1a197f1bf8254f342c4e_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/728/946ff0f670cb1a197f1bf8254f342c4e_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "NPFhM4z3",
+        "name": "The Believer (Instrumental)",
+        "type": "song",
+        "year": "2014",
+        "releaseDate": null,
+        "duration": 83,
+        "label": "Lahari Music",
+        "explicitContent": false,
+        "playCount": 1199,
+        "language": "telugu",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/the-believer-instrumental/PjgtWTkETQA",
+        "copyright": "℗ 2014 Lahari Recording Company",
+        "album": {
+          "id": "68911599",
+          "name": "Arundhati",
+          "url": "https://www.jiosaavn.com/album/arundhati/DDpdj8Bp2Sk_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "457303",
+              "name": "Koti",
+              "role": "primary_artists",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Koti_000_20220913111016_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Koti_000_20220913111016_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Koti_000_20220913111016_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/koti-songs/VUyVz0yTLVE_"
+            }
+          ],
+          "featured": [],
+          "all": [
+            {
+              "id": "457303",
+              "name": "Koti",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Koti_000_20220913111016_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Koti_000_20220913111016_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Koti_000_20220913111016_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/koti-songs/VUyVz0yTLVE_"
+            },
+            {
+              "id": "1538887",
+              "name": "Aish",
+              "role": "singer",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Aish_000_20200923104551.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aish-songs/XzBwgB5xWto_"
+            },
+            {
+              "id": "458252",
+              "name": "Sonu Sood",
+              "role": "starring",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/sonu-sood-songs/TaXF1RdcmyM_"
+            },
+            {
+              "id": "1951270",
+              "name": "Aushka Shetty",
+              "role": "starring",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aushka-shetty-songs/ldqNlXM4TGs_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/683/Arundhati-Telugu-2014-20251012003314-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/683/Arundhati-Telugu-2014-20251012003314-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/683/Arundhati-Telugu-2014-20251012003314-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/683/b0a69cbb925f7e4f2eb92dcd0c902688_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/683/b0a69cbb925f7e4f2eb92dcd0c902688_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/683/b0a69cbb925f7e4f2eb92dcd0c902688_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/683/b0a69cbb925f7e4f2eb92dcd0c902688_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/683/b0a69cbb925f7e4f2eb92dcd0c902688_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "YC_TUAfH",
+        "name": "Believer",
+        "type": "song",
+        "year": "2025",
+        "releaseDate": null,
+        "duration": 225,
+        "label": "Balyoz Music",
+        "explicitContent": false,
+        "playCount": 293,
+        "language": "instrumental",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer/KSs0ZSFxUXs",
+        "copyright": "© 2024 BM Yapım",
+        "album": {
+          "id": "60638135",
+          "name": "The White Love",
+          "url": "https://www.jiosaavn.com/album/the-white-love/jqE049LeNRo_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "1610770",
+              "name": "Arzu",
+              "role": "primary_artists",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/797/Ease-English-2016-20180602061558-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/797/Ease-English-2016-20180602061558-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/797/Ease-English-2016-20180602061558-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/arzu-songs/r1WxfTr,L2k_"
+            }
+          ],
+          "featured": [],
+          "all": [
+            {
+              "id": "11757994",
+              "name": "ARZU GÜLER",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/arzu-guler-songs/tiZJYZMOmS0_"
+            },
+            {
+              "id": "1610770",
+              "name": "Arzu",
+              "role": "singer",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/797/Ease-English-2016-20180602061558-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/797/Ease-English-2016-20180602061558-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/797/Ease-English-2016-20180602061558-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/arzu-songs/r1WxfTr,L2k_"
+            },
+            {
+              "id": "458252",
+              "name": "Sonu Sood",
+              "role": "starring",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/sonu-sood-songs/TaXF1RdcmyM_"
+            },
+            {
+              "id": "1951270",
+              "name": "Aushka Shetty",
+              "role": "starring",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aushka-shetty-songs/ldqNlXM4TGs_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/859/The-White-Love-Instrumental-2025-20241220015956-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/859/The-White-Love-Instrumental-2025-20241220015956-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/859/The-White-Love-Instrumental-2025-20241220015956-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/859/249adc281da37f2e477e98367bd66327_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/859/249adc281da37f2e477e98367bd66327_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/859/249adc281da37f2e477e98367bd66327_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/859/249adc281da37f2e477e98367bd66327_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/859/249adc281da37f2e477e98367bd66327_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "WpcVWc-F",
+        "name": "Believer (Slowed)",
+        "type": "song",
+        "year": "2024",
+        "releaseDate": null,
+        "duration": 141,
+        "label": "Mr Demon",
+        "explicitContent": false,
+        "playCount": 95,
+        "language": "instrumental",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer-slowed/JxgIZyNTGnU",
+        "copyright": "© 2024 Imagine Dragons",
+        "album": {
+          "id": "52406153",
+          "name": "Believer",
+          "url": "https://www.jiosaavn.com/album/believer/EtVl599xWv8_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "16282355",
+              "name": "slow demon",
+              "role": "primary_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/slow-demon-songs/rRYeuAq28dc_"
+            },
+            {
+              "id": "19871711",
+              "name": "Hyper Slow",
+              "role": "primary_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/hyper-slow-songs/bFlJ6Ux52Sg_"
+            },
+            {
+              "id": "10538054",
+              "name": "Mr Demon",
+              "role": "primary_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/mr-demon-songs/8CgSR4kLAXU_"
+            }
+          ],
+          "featured": [],
+          "all": [
+            {
+              "id": "658763",
+              "name": "Daniel Reynolds",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/daniel-reynolds-songs/g5iFF2YN7WQ_"
+            },
+            {
+              "id": "16282355",
+              "name": "slow demon",
+              "role": "singer",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/slow-demon-songs/rRYeuAq28dc_"
+            },
+            {
+              "id": "19871711",
+              "name": "Hyper Slow",
+              "role": "singer",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/hyper-slow-songs/bFlJ6Ux52Sg_"
+            },
+            {
+              "id": "10538054",
+              "name": "Mr Demon",
+              "role": "singer",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/mr-demon-songs/8CgSR4kLAXU_"
+            },
+            {
+              "id": "458252",
+              "name": "Sonu Sood",
+              "role": "starring",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/sonu-sood-songs/TaXF1RdcmyM_"
+            },
+            {
+              "id": "1951270",
+              "name": "Aushka Shetty",
+              "role": "starring",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aushka-shetty-songs/ldqNlXM4TGs_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/736/Believer-Instrumental-2024-20251031123900-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/736/Believer-Instrumental-2024-20251031123900-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/736/Believer-Instrumental-2024-20251031123900-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/736/5a0f2fb8be038b0e967fed21f4645f42_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/736/5a0f2fb8be038b0e967fed21f4645f42_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/736/5a0f2fb8be038b0e967fed21f4645f42_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/736/5a0f2fb8be038b0e967fed21f4645f42_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/736/5a0f2fb8be038b0e967fed21f4645f42_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "HUIboncj",
+        "name": "Believer (feat. Saldator)",
+        "type": "song",
+        "year": "2024",
+        "releaseDate": null,
+        "duration": 226,
+        "label": "Electroecho",
+        "explicitContent": false,
+        "playCount": 5,
+        "language": "instrumental",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer-feat.-saldator/OD0iUxteVFk",
+        "copyright": "© 2024 Electroecho",
+        "album": {
+          "id": "58145170",
+          "name": "Believer (feat. Saldator)",
+          "url": "https://www.jiosaavn.com/album/believer-feat.-saldator/pUX0ebRu2as_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "20626867",
+              "name": "LOON GONE",
+              "role": "primary_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/loon-gone-songs/rXOFYRn6tx8_"
+            }
+          ],
+          "featured": [
+            {
+              "id": "20626868",
+              "name": "Saldator",
+              "role": "featured_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/saldator-songs/tiuyklru0Ww_"
+            }
+          ],
+          "all": [
+            {
+              "id": "13991365",
+              "name": "Carrie Long",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/carrie-long-songs/1zHVbS34Yuw_"
+            },
+            {
+              "id": "20626867",
+              "name": "LOON GONE",
+              "role": "singer",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/loon-gone-songs/rXOFYRn6tx8_"
+            },
+            {
+              "id": "458252",
+              "name": "Sonu Sood",
+              "role": "starring",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/sonu-sood-songs/TaXF1RdcmyM_"
+            },
+            {
+              "id": "1951270",
+              "name": "Aushka Shetty",
+              "role": "starring",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aushka-shetty-songs/ldqNlXM4TGs_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/358/Believer-feat-Saldator-Instrumental-2024-20240918101923-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/358/Believer-feat-Saldator-Instrumental-2024-20240918101923-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/358/Believer-feat-Saldator-Instrumental-2024-20240918101923-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/358/6903a644121d534cc8d5bd084137950a_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/358/6903a644121d534cc8d5bd084137950a_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/358/6903a644121d534cc8d5bd084137950a_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/358/6903a644121d534cc8d5bd084137950a_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/358/6903a644121d534cc8d5bd084137950a_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "OSK1896T",
+        "name": "Believer",
+        "type": "song",
+        "year": "2023",
+        "releaseDate": null,
+        "duration": 201,
+        "label": "Box Of Flute",
+        "explicitContent": false,
+        "playCount": 181,
+        "language": "instrumental",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer/PzsgAEwJAWc",
+        "copyright": "℗ 2023 Box Of Flute",
+        "album": {
+          "id": "45703090",
+          "name": "Enchanting Flute Melodies",
+          "url": "https://www.jiosaavn.com/album/enchanting-flute-melodies/FTPu7KWgg8s_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "16440474",
+              "name": "Box Of Flute",
+              "role": "primary_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/box-of-flute-songs/5jcgOFPFQx4_"
+            }
+          ],
+          "featured": [
+            {
+              "id": "20626868",
+              "name": "Saldator",
+              "role": "featured_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/saldator-songs/tiuyklru0Ww_"
+            }
+          ],
+          "all": [
+            {
+              "id": "13991365",
+              "name": "Carrie Long",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/carrie-long-songs/1zHVbS34Yuw_"
+            },
+            {
+              "id": "16440474",
+              "name": "Box Of Flute",
+              "role": "singer",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/box-of-flute-songs/5jcgOFPFQx4_"
+            },
+            {
+              "id": "455305",
+              "name": "Instrumental",
+              "role": "lyricist",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/832/KGF-Original-Soundtrack-Vol-1-Kannada-2019-20191022002905-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/832/KGF-Original-Soundtrack-Vol-1-Kannada-2019-20191022002905-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/832/KGF-Original-Soundtrack-Vol-1-Kannada-2019-20191022002905-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/instrumental-songs/RKZJPaElDo8_"
+            },
+            {
+              "id": "458252",
+              "name": "Sonu Sood",
+              "role": "starring",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/sonu-sood-songs/TaXF1RdcmyM_"
+            },
+            {
+              "id": "1951270",
+              "name": "Aushka Shetty",
+              "role": "starring",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aushka-shetty-songs/ldqNlXM4TGs_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/554/Enchanting-Flute-Melodies-Instrumental-2023-20251110223717-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/554/Enchanting-Flute-Melodies-Instrumental-2023-20251110223717-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/554/Enchanting-Flute-Melodies-Instrumental-2023-20251110223717-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/554/cbc32cfb1ea7576c22cba71d01a602bf_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/554/cbc32cfb1ea7576c22cba71d01a602bf_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/554/cbc32cfb1ea7576c22cba71d01a602bf_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/554/cbc32cfb1ea7576c22cba71d01a602bf_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/554/cbc32cfb1ea7576c22cba71d01a602bf_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "8ZujVfmL",
+        "name": "Believer",
+        "type": "song",
+        "year": "2025",
+        "releaseDate": null,
+        "duration": 215,
+        "label": "Creative Dream Music",
+        "explicitContent": false,
+        "playCount": 4,
+        "language": "instrumental",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer/SDIeWyJWWn8",
+        "copyright": "© 2025 Guitar Tribute Players",
+        "album": {
+          "id": "67562240",
+          "name": "Pop Covers Rain - Calm Instrumental Guitar Pop Songs and Rain Sounds For Sleep",
+          "url": "https://www.jiosaavn.com/album/pop-covers-rain-calm-instrumental-guitar-pop-songs-and-rain-sounds-for-sleep/gNsWzLje5-I_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "1776096",
+              "name": "Guitar Tribute Players",
+              "role": "primary_artists",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/295/Acoustic-Tribute-to-Game-of-Thrones-English-2013-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/295/Acoustic-Tribute-to-Game-of-Thrones-English-2013-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/295/Acoustic-Tribute-to-Game-of-Thrones-English-2013-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/guitar-tribute-players-songs/QxqML5FiEts_"
+            }
+          ],
+          "featured": [
+            {
+              "id": "20626868",
+              "name": "Saldator",
+              "role": "featured_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/saldator-songs/tiuyklru0Ww_"
+            }
+          ],
+          "all": [
+            {
+              "id": "633532",
+              "name": "Justin Tranter",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/916/The-Lego-Batman-Movie-Original-Motion-Picture-Soundtrack-English-2017-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/justin-tranter-songs/MUdaah321CU_"
+            },
+            {
+              "id": "599455",
+              "name": "Ben Mckee",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/ben-mckee-songs/EA7FaJms-k8_"
+            },
+            {
+              "id": "599453",
+              "name": "Dan Reynolds",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/048/Skipping-Stones-English-2018-20180620230710-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/dan-reynolds-songs/xoeLrr0aTEU_"
+            },
+            {
+              "id": "914898",
+              "name": "Daniel Platzman",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/883/Best-F-r-iends-Original-Motion-Picture-Soundtrack-English-2019-20190128215540-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/daniel-platzman-songs/hOWrEJ6eC9I_"
+            },
+            {
+              "id": "634862",
+              "name": "Mattias Larsson",
+              "role": "music",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/277/Kom-Swedish-2017-20171009155644-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/mattias-larsson-songs/d6thUM5GwSE_"
+            },
+            {
+              "id": "683491",
+              "name": "Robin Fredriksson",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/robin-fredriksson-songs/jRGk4sF83Ko_"
+            },
+            {
+              "id": "599454",
+              "name": "Wayne Sermon",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/wayne-sermon-songs/,WHkVDnJnD8_"
+            },
+            {
+              "id": "1776096",
+              "name": "Guitar Tribute Players",
+              "role": "singer",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/295/Acoustic-Tribute-to-Game-of-Thrones-English-2013-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/295/Acoustic-Tribute-to-Game-of-Thrones-English-2013-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/295/Acoustic-Tribute-to-Game-of-Thrones-English-2013-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/guitar-tribute-players-songs/QxqML5FiEts_"
+            },
+            {
+              "id": "455305",
+              "name": "Instrumental",
+              "role": "lyricist",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/832/KGF-Original-Soundtrack-Vol-1-Kannada-2019-20191022002905-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/832/KGF-Original-Soundtrack-Vol-1-Kannada-2019-20191022002905-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/832/KGF-Original-Soundtrack-Vol-1-Kannada-2019-20191022002905-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/instrumental-songs/RKZJPaElDo8_"
+            },
+            {
+              "id": "458252",
+              "name": "Sonu Sood",
+              "role": "starring",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/sonu-sood-songs/TaXF1RdcmyM_"
+            },
+            {
+              "id": "1951270",
+              "name": "Aushka Shetty",
+              "role": "starring",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aushka-shetty-songs/ldqNlXM4TGs_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/478/Pop-Covers-Rain-Calm-Instrumental-Guitar-Pop-Songs-and-Rain-Sounds-For-Sleep-Instrumental-2025-20250826223712-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/478/Pop-Covers-Rain-Calm-Instrumental-Guitar-Pop-Songs-and-Rain-Sounds-For-Sleep-Instrumental-2025-20250826223712-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/478/Pop-Covers-Rain-Calm-Instrumental-Guitar-Pop-Songs-and-Rain-Sounds-For-Sleep-Instrumental-2025-20250826223712-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/478/75bbfed5edce8930f8f539084d6efb8c_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/478/75bbfed5edce8930f8f539084d6efb8c_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/478/75bbfed5edce8930f8f539084d6efb8c_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/478/75bbfed5edce8930f8f539084d6efb8c_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/478/75bbfed5edce8930f8f539084d6efb8c_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "8g72uLVE",
+        "name": "Believer",
+        "type": "song",
+        "year": "2024",
+        "releaseDate": null,
+        "duration": 117,
+        "label": "Satta Gunjan",
+        "explicitContent": false,
+        "playCount": 7,
+        "language": "punjabi",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/believer/SA9cAwF8YXY",
+        "copyright": "© 2024 Satta Gunjan",
+        "album": {
+          "id": "55157928",
+          "name": "Believer",
+          "url": "https://www.jiosaavn.com/album/believer/inlHW5sHp0c_"
+        },
+        "artists": {
+          "primary": [
+            {
+              "id": "2465501",
+              "name": "Satta Dhillon",
+              "role": "primary_artists",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/601/The-Ghost-Punjabi-2018-20181206154405-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/601/The-Ghost-Punjabi-2018-20181206154405-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/601/The-Ghost-Punjabi-2018-20181206154405-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/satta-dhillon-songs/CCKYu5yIoOs_"
+            }
+          ],
+          "featured": [
+            {
+              "id": "20626868",
+              "name": "Saldator",
+              "role": "featured_artists",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/saldator-songs/tiuyklru0Ww_"
+            }
+          ],
+          "all": [
+            {
+              "id": "16260482",
+              "name": "PRESTO MUSIC",
+              "role": "music",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/presto-music-songs/Rd0KOFpXsmI_"
+            },
+            {
+              "id": "2465501",
+              "name": "Satta Dhillon",
+              "role": "singer",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/601/The-Ghost-Punjabi-2018-20181206154405-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/601/The-Ghost-Punjabi-2018-20181206154405-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/601/The-Ghost-Punjabi-2018-20181206154405-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/satta-dhillon-songs/CCKYu5yIoOs_"
+            },
+            {
+              "id": "822017",
+              "name": "Shera",
+              "role": "lyricist",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/930/Caliente-English-2016-50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/930/Caliente-English-2016-150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/930/Caliente-English-2016-500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/shera-songs/GQcBV8QhIRU_"
+            },
+            {
+              "id": "458252",
+              "name": "Sonu Sood",
+              "role": "starring",
+              "image": [
+                {
+                  "quality": "50x50",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_50x50.jpg"
+                },
+                {
+                  "quality": "150x150",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_150x150.jpg"
+                },
+                {
+                  "quality": "500x500",
+                  "url": "https://c.saavncdn.com/artists/Sonu_Sood_500x500.jpg"
+                }
+              ],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/sonu-sood-songs/TaXF1RdcmyM_"
+            },
+            {
+              "id": "1951270",
+              "name": "Aushka Shetty",
+              "role": "starring",
+              "image": [],
+              "type": "artist",
+              "url": "https://www.jiosaavn.com/artist/aushka-shetty-songs/ldqNlXM4TGs_"
+            }
+          ]
+        },
+        "image": [
+          {
+            "quality": "50x50",
+            "url": "https://c.saavncdn.com/220/Believer-Punjabi-2024-20240612010505-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "url": "https://c.saavncdn.com/220/Believer-Punjabi-2024-20240612010505-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "url": "https://c.saavncdn.com/220/Believer-Punjabi-2024-20240612010505-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "url": "https://aac.saavncdn.com/220/853d91b251f1b3cf60b178a0aadada02_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "url": "https://aac.saavncdn.com/220/853d91b251f1b3cf60b178a0aadada02_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "url": "https://aac.saavncdn.com/220/853d91b251f1b3cf60b178a0aadada02_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "url": "https://aac.saavncdn.com/220/853d91b251f1b3cf60b178a0aadada02_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "url": "https://aac.saavncdn.com/220/853d91b251f1b3cf60b178a0aadada02_320.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

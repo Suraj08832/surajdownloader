@@ -1,0 +1,32 @@
+.idea
+.vscode
+tests/*.json
+tests/setup/*.json
+docs/build
+docs/source/reference/api
+test.cfg
+**.mp3
+.coverage
+**/__pycache__/
+venv*/
+*.egg-info/
+build
+dist
+.pdm-python
+.venv
+*.log
+*.xml
+
+# Replit / Environment
+.pythonlibs/
+.cache/
+.uv/
+
+# Auth files (sensitive)
+oauth.json
+browser.json
+headers_auth.json
+
+# OS files
+.DS_Store
+Thumbs.db

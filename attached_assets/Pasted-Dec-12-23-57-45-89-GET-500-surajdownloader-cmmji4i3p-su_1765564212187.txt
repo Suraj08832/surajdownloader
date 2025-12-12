@@ -1,0 +1,36 @@
+Dec 12 23:57:45.89
+GET
+500
+surajdownloader-cmmji4i3p-suraj08832s-projects.vercel.app
+/favicon.ico
+Error importing api/index.py: Traceback (most recent call last): File "/var/task/vc__handler__python.py", line 243, in <module> __vc_spec.loader.exec_module(__vc_module) File "<frozen importlib._bootstrap_external>", line 999, in exec_module File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed File "/var/task/api/index.py", line 3, in <module> import yt_dlp ModuleNotFoundError: No module named 'yt_dlp' Python process exited with exit status: 1. The logs above can help with debugging the issue.
+Dec 12 23:57:45.74
+GET
+500
+surajdownloader-cmmji4i3p-suraj08832s-projects.vercel.app
+/favicon.ico
+Error importing api/index.py: Traceback (most recent call last): File "/var/task/vc__handler__python.py", line 243, in <module> __vc_spec.loader.exec_module(__vc_module) File "<frozen importlib._bootstrap_external>", line 999, in exec_module File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed File "/var/task/api/index.py", line 3, in <module> import yt_dlp ModuleNotFoundError: No module named 'yt_dlp' Python process exited with exit status: 1. The logs above can help with debugging the issue.
+Dec 12 23:57:44.90
+GET
+500
+surajdownloader-cmmji4i3p-suraj08832s-projects.vercel.app
+/
+Error importing api/index.py: Traceback (most recent call last): File "/var/task/vc__handler__python.py", line 243, in <module> __vc_spec.loader.exec_module(__vc_module) File "<frozen importlib._bootstrap_external>", line 999, in exec_module File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed File "/var/task/api/index.py", line 3, in <module> import yt_dlp ModuleNotFoundError: No module named 'yt_dlp' Python process exited with exit status: 1. The logs above can help with debugging the issue.
+Dec 12 23:57:44.54
+GET
+---
+surajdownloader-cmmji4i3p-suraj08832s-projects.vercel.app
+/
+Error importing api/index.py: Traceback (most recent call last): File "/var/task/vc__handler__python.py", line 243, in <module> __vc_spec.loader.exec_module(__vc_module) File "<frozen importlib._bootstrap_external>", line 999, in exec_module File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed File "/var/task/api/index.py", line 3, in <module> import yt_dlp ModuleNotFoundError: No module named 'yt_dlp' Python process exited with exit status: 1. The logs above can help with debugging the issue.
+Dec 12 23:57:42.47
+GET
+500
+surajdownloader-cmmji4i3p-suraj08832s-projects.vercel.app
+/
+Error importing api/index.py: Traceback (most recent call last): File "/var/task/vc__handler__python.py", line 243, in <module> __vc_spec.loader.exec_module(__vc_module) File "<frozen importlib._bootstrap_external>", line 999, in exec_module File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed File "/var/task/api/index.py", line 3, in <module> import yt_dlp ModuleNotFoundError: No module named 'yt_dlp' Python process exited with exit status: 1. The logs above can help with debugging the issue. Error importing api/index.py: Traceback (most recent call last): File "/var/task/vc__handler__python.py", line 243, in <module> __vc_spec.loader.exec_module(__vc_module) File "<frozen importlib._bootstrap_external>", line 999, in exec_module File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed File "/var/task/api/index.py", line 3, in <module> import yt_dlp ModuleNotFoundError: No module named 'yt_dlp' Python process exited with exit status: 1. The logs above can help with debugging the issue.
+Dec 12 23:57:42.45
+GET
+500
+surajdownloader-cmmji4i3p-suraj08832s-projects.vercel.app
+/
+Error importing api/index.py: Traceback (most recent call last): File "/var/task/vc__handler__python.py", line 243, in <module> __vc_spec.loader.exec_module(__vc_module) File "<frozen importlib._bootstrap_external>", line 999, in exec_module File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed File "/var/task/api/index.py", line 3, in <module> import yt_dlp ModuleNotFoundError: No module named 'yt_dlp' Python process exited with exit status: 1. The logs above can help with debugging the issue. Error importing api/index.py: Traceback (most recent call last): File "/var/task/vc__handler__python.py", line 243, in <module> __vc_spec.loader.exec_module(__vc_module) File "<frozen importlib._bootstrap_external>", line 999, in exec_module File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed File "/var/task/api/index.py", line 3, in <module> import yt_dlp ModuleNotFoundError: No module named 'yt_dlp' Python process exited with exit status: 1. The logs above can help with debugging the issue.
